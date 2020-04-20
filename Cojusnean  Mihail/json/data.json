@@ -1,0 +1,193 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Tesla Model X",
+      "speed": 250,
+      "image": "https://static-assets.tesla.com/configurator/compositor?&options=$W38B,$PPSW,$DV2W,$MT308,$IN3B2&view=STUD_3QTR&model=m3&size=1441&bkba_opt=1&version=v0027d202004093351&version=v0027d202004093351",
+      "traction": [
+        {
+          "name": "4x2 - 100 lei",
+          "price": 100
+        },
+        {
+          "name": "AWD - 200 lei",
+          "price": 200
+        },
+        {
+          "name": "4WD (4x4) - 300 lei",
+          "price": 300
+        }
+      ],
+      "cutie": [
+        {
+          "name": "SECVENTIALA - 700 lei",
+          "price": 700
+        },
+        {
+          "name": "DSG - 450 lei",
+          "price": 450
+        },
+        {
+          "name": "MANUAL - 1000 lei",
+          "price": 1000
+        }
+      ],
+      "motor": [
+        {
+          "name": "Ardere interna - 200 lei",
+          "price": 200
+        },
+        {
+          "name": "Cu abur - 1000 lei",
+          "price": 1000
+        },
+        {
+          "name": "Electric - 500 lei",
+          "price": 500
+        },
+        {
+          "name": "Cu aer - 5000 lei",
+          "price": 5000
+        }
+      ],
+      "parbrize": [
+        {
+          "name": "De - 500 lei",
+          "price": 500
+        },
+        {
+          "name": "Sau - 5000 lei",
+          "price": 5000
+        }
+      ],
+      "price": 96700
+    },
+    {
+      "id": 2,
+      "name": "Tesla Model S",
+      "speed": 290,
+      "image": "https://static-assets.tesla.com/configurator/compositor?&options=$WTAS,$PPSW,$MTS03&view=STUD_3QTR_V2&model=ms&size=1441&bkba_opt=1&version=v0027d2020214789990&version=v0027d2020214789990",
+      "traction": [
+        {
+          "name": "4x2 - 100 lei",
+          "price": 100
+        },
+        {
+          "name": "AWD - 200 lei",
+          "price": 200
+        },
+        {
+          "name": "4WD (4x4) - 300 lei",
+          "price": 300
+        }
+      ],
+      "cutie": [
+        {
+          "name": "SECVENTIALA - 700 lei",
+          "price": 700
+        },
+        {
+          "name": "DSG - 450 lei",
+          "price": 450
+        },
+        {
+          "name": "MANUAL - 1000 lei",
+          "price": 1000
+        }
+      ],
+      "motor": [
+        {
+          "name": "Ardere interna - 200 lei",
+          "price": 200
+        },
+        {
+          "name": "Cu abur - 1000 lei",
+          "price": 1000
+        },
+        {
+          "name": "Electric - 500 lei",
+          "price": 500
+        },
+        {
+          "name": "Cu aer - 5000 lei",
+          "price": 5000
+        }
+      ],
+      "parbrize": [
+        {
+          "name": "De - 500 lei",
+          "price": 500
+        },
+        {
+          "name": "Sau - 5000 lei",
+          "price": 5000
+        }
+      ],
+      "price": 100000
+    },
+    {
+      "id": 3,
+      "name": "Tesla Model Y",
+      "speed": 300,
+      "image": "https://static-assets.tesla.com/configurator/compositor?&options=$WY19B,$PPMR,$DV4W,$MTY03,$INYPB&view=STUD_3QTR&model=my&size=1441&bkba_opt=1&version=v0027d202004093351&version=v0027d202004093351",
+      "traction": [
+        {
+          "name": "4x2 - 100 lei",
+          "price": 100
+        },
+        {
+          "name": "AWD - 200 lei",
+          "price": 200
+        },
+        {
+          "name": "4WD (4x4) - 300 lei",
+          "price": 300
+        }
+      ],
+      "cutie": [
+        {
+          "name": "SECVENTIALA - 700 lei",
+          "price": 700
+        },
+        {
+          "name": "DSG - 450 lei",
+          "price": 450
+        },
+        {
+          "name": "MANUAL - 1000 lei",
+          "price": 1000
+        }
+      ],
+      "motor": [
+        {
+          "name": "Ardere interna - 200 lei",
+          "price": 200
+        },
+        {
+          "name": "Cu abur - 1000 lei",
+          "price": 1000
+        },
+        {
+          "name": "Electric - 500 lei",
+          "price": 500
+        },
+        {
+          "name": "Cu aer - 5000 lei",
+          "price": 5000
+        }
+      ],
+      "parbrize": [
+        {
+          "name": "De - 500 lei",
+          "price": 500
+        },
+        {
+          "name": "Sau - 5000 lei",
+          "price": 5000
+        }
+      ],
+      "price": 150000
+    }
+  ]
+}
